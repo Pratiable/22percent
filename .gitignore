@@ -1,6 +1,8 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,linux,pycharm,windows,python,vim,zsh
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,linux,pycharm,windows,python,vim,zsh
+### Shell ###
+*.sh
 
 ### Linux ###
 *~
