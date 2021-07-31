@@ -19,7 +19,7 @@
 - 2021.7.19 - 2021.7.30
 
 ## 기술스택
-- Front-End : JavaScript, React.js, sass, 
+- Front-End : JavaScript, React.js, sass, Styled-Components, Hooks
 - Back-End : Python, Django, MySQL, Bcrypt, PyJWT
  
 ## API 문서
